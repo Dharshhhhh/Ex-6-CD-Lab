@@ -150,7 +150,7 @@ int main() {
 ```
 
 # OUTPUT
-<img width="1733" height="783" alt="Screenshot 2026-08-22 105051" src="https://github.com/user-attachments/assets/efe1fec9-db2c-47a7-b25f-e075c8285dd3" />
+<img width="530" height="570" alt="image" src="https://github.com/user-attachments/assets/8ff7f272-b67a-4c99-987a-931bc34b6add" />
 
 
 # Result
